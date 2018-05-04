@@ -32,7 +32,8 @@
 let n = [6, 1, 21, 67, 23, 546, 2, 7, 112];
 console.log(highestDifference(n));```
 
-(b) ```function saveTheEggs(building) {
+(b)
+```function saveTheEggs(building) {
   let length = building.length;
   let drop = Math.floor(building.length / 2);
   let diff = drop;
@@ -59,9 +60,9 @@ console.log(highestDifference(n));```
   
   return { eggsDropped: dropped, eggsLost: lost, fancyFloor: drop - 1 };
 }```
+
 for testing:
-```
-let building = [
+```let building = [
   'safe',
   'safe',
   'safe',
@@ -88,8 +89,7 @@ let building = [
 results = saveTheEggs(building);
 console.log('Eggs Dropped:', results.eggsDropped);
 console.log('Eggs Lost:', results.eggsLost);
-console.log('Fancy Floor:', results.fancyFloor);
-```
+console.log('Fancy Floor:', results.fancyFloor);```
 
 ## Exercise III
 
