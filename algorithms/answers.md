@@ -99,4 +99,6 @@ console.log('Fancy Floor:', results.fancyFloor);
 
 ## Exercise III
 
-(a)
+(a) O(n)
+
+(b) O(log n)
