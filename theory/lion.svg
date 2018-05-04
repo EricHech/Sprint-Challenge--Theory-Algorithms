@@ -1,0 +1,40 @@
+<svg width="800" height="600" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="126.5" cy="109.5" rx="30" ry="30"/>
+	<text x="93.5" y="115.5" font-family="Times New Roman" font-size="20">sleeping</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="616.5" cy="123.5" rx="30" ry="30"/>
+	<text x="581.5" y="129.5" font-family="Times New Roman" font-size="20">preening</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="616.5" cy="426.5" rx="30" ry="30"/>
+	<text x="592.5" y="432.5" font-family="Times New Roman" font-size="20">eating</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="109.5" cy="426.5" rx="30" ry="30"/>
+	<text x="78.5" y="432.5" font-family="Times New Roman" font-size="20">hunting</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 134.127,138.509 A 472.738,472.738 0 0 1 120.186,398.473"/>
+	<polygon fill="black" stroke-width="1" points="120.186,398.473 127.524,392.544 118.071,389.279"/>
+	<text x="151.5" y="275.5" font-family="Times New Roman" font-size="20">hungry</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 587.432,433.916 A 966.742,966.742 0 0 1 138.568,433.916"/>
+	<polygon fill="black" stroke-width="1" points="587.432,433.916 578.49,430.91 580.812,440.637"/>
+	<text x="344.5" y="481.5" font-family="Times New Roman" font-size="20">food</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 602.992,399.727 A 306.982,306.982 0 0 1 602.992,150.273"/>
+	<polygon fill="black" stroke-width="1" points="602.992,150.273 595.173,155.552 604.31,159.615"/>
+	<text x="563.5" y="280.5" font-family="Times New Roman" font-size="20">&#949;</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 155.744,102.811 A 919.82,919.82 0 0 1 587.686,115.153"/>
+	<polygon fill="black" stroke-width="1" points="587.686,115.153 581.28,108.228 578.654,117.877"/>
+	<text x="368.5" y="73.5" font-family="Times New Roman" font-size="20">&#949;</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 586.84,128 A 1292.944,1292.944 0 0 1 155.855,115.686"/>
+	<polygon fill="black" stroke-width="1" points="155.855,115.686 162.727,122.148 164.676,112.34"/>
+	<text x="352.5" y="161.5" font-family="Times New Roman" font-size="20">tired</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 623.876,152.575 A 557.18,557.18 0 0 1 623.876,397.425"/>
+	<polygon fill="black" stroke-width="1" points="623.876,397.425 630.512,390.719 620.756,388.522"/>
+	<text x="642.5" y="281.5" font-family="Times New Roman" font-size="20">food available</text>
+	<polygon stroke="black" stroke-width="1" points="591.312,410.205 151.688,125.795"/>
+	<polygon fill="black" stroke-width="1" points="151.688,125.795 155.69,134.339 161.121,125.943"/>
+	<text x="376.5" y="259.5" font-family="Times New Roman" font-size="20">tired</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 132.485,407.221 A 1768.947,1768.947 0 0 1 588.634,134.611"/>
+	<polygon fill="black" stroke-width="1" points="588.634,134.611 579.337,133.009 583.12,142.266"/>
+	<text x="243.5" y="244.5" font-family="Times New Roman" font-size="20">unsuccessful</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 139.17,422.069 A 1615.809,1615.809 0 0 1 586.83,422.069"/>
+	<polygon fill="black" stroke-width="1" points="139.17,422.069 147.786,425.912 146.401,416.009"/>
+	<text x="297.5" y="397.5" font-family="Times New Roman" font-size="20">not enough food</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 96.046,399.701 A 294.222,294.222 0 0 1 110.257,134.707"/>
+	<polygon fill="black" stroke-width="1" points="110.257,134.707 101.937,139.153 110.608,144.134"/>
+	<text x="29.5" y="271.5" font-family="Times New Roman" font-size="20">tired</text>
+</svg>
