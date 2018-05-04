@@ -16,7 +16,8 @@
 
 ## Exercise II
 
-(a) ```function highestDifference(arr) {
+(a)
+```function highestDifference(arr) {
   let highest = Math.max(arr[0], arr[1]);
   let lowest  = Math.min(arr[0], arr[1]);
 
