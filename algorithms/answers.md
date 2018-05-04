@@ -17,7 +17,8 @@
 ## Exercise II
 
 (a)
-```function highestDifference(arr) {
+```
+function highestDifference(arr) {
   let highest = Math.max(arr[0], arr[1]);
   let lowest  = Math.min(arr[0], arr[1]);
 
@@ -30,10 +31,12 @@
 }
 
 let n = [6, 1, 21, 67, 23, 546, 2, 7, 112];
-console.log(highestDifference(n));```
+console.log(highestDifference(n));
+```
 
 (b)
-```function saveTheEggs(building) {
+```
+function saveTheEggs(building) {
   let length = building.length;
   let drop = Math.floor(building.length / 2);
   let diff = drop;
@@ -59,10 +62,12 @@ console.log(highestDifference(n));```
   }
   
   return { eggsDropped: dropped, eggsLost: lost, fancyFloor: drop - 1 };
-}```
+}
+```
 
 for testing:
-```let building = [
+```
+let building = [
   'safe',
   'safe',
   'safe',
@@ -89,7 +94,8 @@ for testing:
 results = saveTheEggs(building);
 console.log('Eggs Dropped:', results.eggsDropped);
 console.log('Eggs Lost:', results.eggsLost);
-console.log('Fancy Floor:', results.fancyFloor);```
+console.log('Fancy Floor:', results.fancyFloor);
+```
 
 ## Exercise III
 
