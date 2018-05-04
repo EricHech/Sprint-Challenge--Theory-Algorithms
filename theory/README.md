@@ -12,7 +12,7 @@ both `antelope` and `antelopes`.)
     antelopes rock out
 
   _Answer:_
-  `/antelopes?/`
+  `/antelope rocks out|antelopes rock out/g`
 
 * Regex that matches either of:
 
@@ -38,6 +38,9 @@ both `antelope` and `antelopes`.)
   1999-01-20
   
   812-2-10
+
+  _Answer:_
+  `/\b\d{1,4}-\d{1,2}-\d{1,2}\b/g`
 
 ## State Machines
 
