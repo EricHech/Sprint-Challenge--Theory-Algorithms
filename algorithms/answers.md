@@ -99,6 +99,6 @@ console.log('Fancy Floor:', results.fancyFloor);
 
 ## Exercise III
 
-(a) O(n)
+(a) O(n^2)
 
-(b) O(log n)
+(b) O(n log n)
